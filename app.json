@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "thapafit-app",
+    "slug": "thapafit-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
